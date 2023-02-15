@@ -20,12 +20,33 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ScorchChamp/minecraft-structure-finder?style=for-the-badge)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/ScorchChamp/minecraft-structure-finder?style=for-the-badge)
 
-Minecraft structure finder
+👋 Welcome to the Minecraft Undetectable Live Structure Finder!
+
+Are you tired of spending hours upon hours scouring your Minecraft world for structures? Do you want to easily find them without the use of mods? Look no further! 🎉
+
+Our script, run.py, will automatically detect the newest Minecraft world in '%appdata%/.minecraft/saves/\*' and search for rendered structures in real-time. That's right, no more wasting time searching for structures that have already been rendered.
+
+Our script is completely undetectable by third parties 😎, so you don't have to worry about any complicated mods or add-ons - our script does all the work for you! ⚡️
+
+Keep an eye on the console for new lines - this means that the script has found a new structure! 🤩 The coordinates in the console directly correspond to the 'CHUNK'-coordinate of the structure, making it even easier to find buried treasures and other hidden gems. 🚀
+
+Please note that this script is not intended for use in speedruns, as it could be considered cheating. 
+
+<img src="./image1.PNG">
+<img src="./image2.PNG">
+<img src="./image3.PNG">
 
 ## Features
 
-- Quickly find any useful structures in the overworld 
-- Quickly find any useful structures in the nether
+🚀 Real-time Detection: Our script detects rendered structures in real-time, so you can find them as soon as they're rendered!
+
+😎 No Mods Required: Our script is so easy to use that you don't need any mods or add-ons to use it.
+
+🌎 Automatic Detection: The script automatically detects the newest Minecraft world in '%appdata%/.minecraft/saves/*', so you don't have to worry about selecting the right world.
+
+🔍 Coordinate Correspondence: The coordinates in the console directly correspond to the 'CHUNK'-coordinate of the structure, making it even easier to find buried treasures and other hidden gems.
+
+👻 Undetectable by Third Parties: You can use our script without worrying about getting banned or detected by third parties.
 
 
 ## Usage
