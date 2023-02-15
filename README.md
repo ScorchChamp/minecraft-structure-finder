@@ -20,8 +20,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ScorchChamp/minecraft-structure-finder?style=for-the-badge)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/ScorchChamp/minecraft-structure-finder?style=for-the-badge)
 
-helper,minecraft,speedrun,structures
-
 Minecraft speedrun structure finder
 
 ## Features
