@@ -30,6 +30,9 @@ Keep an eye out for new lines in the console. If you see a new line, it means th
 The coordinates in the console directly corresponds to the 'CHUNK'-coordinate of the structure. (This means that you still should do the buried treasure trick in the chunk for example).
 
 DISCLAIMER: Do not use this in speedruns; this will probably count as cheating.
+<img src="./image1.PNG">
+<img src="./image2.PNG">
+<img src="./image3.PNG">
 
 ## Features
 
