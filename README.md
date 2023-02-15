@@ -38,8 +38,15 @@ Please note that this script is not intended for use in speedruns, as it could b
 
 ## Features
 
-- Quickly find any useful structures in the overworld 
-- Quickly find any useful structures in the nether
+🚀 Real-time Detection: Our script detects rendered structures in real-time, so you can find them as soon as they're rendered!
+
+😎 No Mods Required: Our script is so easy to use that you don't need any mods or add-ons to use it.
+
+🌎 Automatic Detection: The script automatically detects the newest Minecraft world in '%appdata%/.minecraft/saves/*', so you don't have to worry about selecting the right world.
+
+🔍 Coordinate Correspondence: The coordinates in the console directly correspond to the 'CHUNK'-coordinate of the structure, making it even easier to find buried treasures and other hidden gems.
+
+👻 Undetectable by Third Parties: You can use our script without worrying about getting banned or detected by third parties.
 
 
 ## Usage
