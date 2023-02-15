@@ -48,6 +48,12 @@ Please note that this script is not intended for use in speedruns, as it could b
 
 👻 Undetectable by Third Parties: You can use our script without worrying about getting banned or detected by third parties.
 
+## Installation
+
+You need to install ANVIL by using the following command:
+```cmd
+pip install git+https://github.com/matcool/anvil-parser.git
+```
 
 ## Usage
 
