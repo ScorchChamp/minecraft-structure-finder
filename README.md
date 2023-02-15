@@ -20,16 +20,18 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ScorchChamp/minecraft-structure-finder?style=for-the-badge)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/ScorchChamp/minecraft-structure-finder?style=for-the-badge)
 
-Minecraft undetectable live structure finder without mods.
+👋 Welcome to the Minecraft Undetectable Live Structure Finder!
 
-When running the run.py script it finds the newest minecraft world in '%appdata%/.minecraft/saves/*'. Whenever you start a new minecraft world, it will stop searching the old world and starts searching in the new world.
+Are you tired of spending hours upon hours scouring your Minecraft world for structures? Do you want to easily find them without the use of mods? Look no further! 🎉
 
-The script only looks for rendered structures. The script is undetectable by third parties.
+Our script, run.py, will automatically detect the newest Minecraft world in '%appdata%/.minecraft/saves/\*' and search for rendered structures in real-time. That's right, no more wasting time searching for structures that have already been rendered.
 
-Keep an eye out for new lines in the console. If you see a new line, it means that the script found a new structure.
-The coordinates in the console directly corresponds to the 'CHUNK'-coordinate of the structure. (This means that you still should do the buried treasure trick in the chunk for example).
+Our script is completely undetectable by third parties 😎, so you don't have to worry about any complicated mods or add-ons - our script does all the work for you! ⚡️
 
-DISCLAIMER: Do not use this in speedruns; this will probably count as cheating.
+Keep an eye on the console for new lines - this means that the script has found a new structure! 🤩 The coordinates in the console directly correspond to the 'CHUNK'-coordinate of the structure, making it even easier to find buried treasures and other hidden gems. 🚀
+
+Please note that this script is not intended for use in speedruns, as it could be considered cheating. 
+
 <img src="./image1.PNG">
 <img src="./image2.PNG">
 <img src="./image3.PNG">
